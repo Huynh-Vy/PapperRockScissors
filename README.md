@@ -1,6 +1,6 @@
-#Paper, Rock and Scissors Game
+# Paper, Rock and Scissors Game
 
-##This is the small game called Papper, Rock and Scissors.
+## This is the small game called Papper, Rock and Scissors.
 
 Rock paper scissors is a classic two player game. Each player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins.
 
